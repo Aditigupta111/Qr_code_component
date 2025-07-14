@@ -45,16 +45,15 @@ The component features a visually appealing card containing:
 - CSS Grid
 
 ### What I learned
-
-- Structuring an HTML page using semantic elements (<div>, <img>, <h1>, <p>, etc.)
-- How to center content vertically and horizontally using Flexbox
-- Using position, margin, and padding to control spacing and layout
-- Applying responsive units like vh, %, and rem to make the design scalable
-- Writing clean and maintainable CSS with class selectors
-- Understanding the difference between block and inline elements
-- The importance of using the alt attribute for accessibility
-- Using box-shadow, border-radius, and modern CSS techniques for UI design
-- Managing a basic project folder structure for HTML/CSS work
+ - Structuring an HTML page using semantic elements (<div>, <img>, <h1>, <p>, etc.)
+ - How to center content vertically and horizontally using Flexbox
+ - Using position, margin, and padding to control spacing and layout
+ - Applying responsive units like vh, %, and rem to make the design scalable
+ - Writing clean and maintainable CSS with class selectors
+ - Understanding the difference between block and inline elements
+ - The importance of using the alt attribute for accessibility
+ - Using box-shadow, border-radius, and modern CSS techniques for UI design
+ - Managing a basic project folder structure for HTML/CSS work
 
 ## Author
 

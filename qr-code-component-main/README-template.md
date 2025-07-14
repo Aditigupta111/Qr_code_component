@@ -45,7 +45,8 @@ The component features a visually appealing card containing:
 - CSS Grid
 
 ### What I learned
- - Structuring an HTML page using semantic elements (<div>, <img>, <h1>, <p>, etc.)
+
+ - Structuring an HTML page using semantic elements
  - How to center content vertically and horizontally using Flexbox
  - Using position, margin, and padding to control spacing and layout
  - Applying responsive units like vh, %, and rem to make the design scalable

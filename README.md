@@ -29,8 +29,7 @@ The component features a visually appealing card containing:
 
 ### Screenshot
 
-![](./qr_code_output.png)
-
+<img src="https://github.com/Aditigupta111/Qr_code_component/blob/master/qr-code-component-main/qr_code_output.png43r8">
 ### Links
 
 - Solution URL:(http://127.0.0.1:5500/index.html)

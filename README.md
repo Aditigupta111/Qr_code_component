@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+43ef 5t # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -27,9 +27,6 @@ The component features a visually appealing card containing:
 
 -It uses Flexbox for vertical and horizontal alignment and is styled to resemble modern, minimalistic design cards.
 
-### Screenshot
-
-<img src="https://github.com/Aditigupta111/Qr_code_component/blob/master/qr-code-component-main/qr_code_output.png43r8">
 ### Links
 
 - Solution URL:(http://127.0.0.1:5500/index.html)

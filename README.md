@@ -31,7 +31,7 @@ The component features a visually appealing card containing:
 
 ### Screenshot
 
-![](./qr_code_output.png)
+<img src="https://github.com/Aditigupta111/Qr_code_component/blob/master/qr-code-component-main/qr_code_output.png">
 
 ### Built with
 

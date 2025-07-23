@@ -31,10 +31,6 @@ The component features a visually appealing card containing:
 
 ![](./qr_code_output.png)
 
-### Links
-
-- Solution URL:(http://127.0.0.1:5500/index.html)
-
 ## My Process
 
 ### Built with

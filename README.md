@@ -27,10 +27,6 @@ The component features a visually appealing card containing:
 
 -It uses Flexbox for vertical and horizontal alignment and is styled to resemble modern, minimalistic design cards.
 
-### Links
-
-- Solution URL:(http://127.0.0.1:5500/index.html)
-
 ## My Process
 
 ### Built with

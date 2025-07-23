@@ -29,6 +29,10 @@ The component features a visually appealing card containing:
 
 ## My Process
 
+### Screenshot
+
+![](./qr_code_output.png)
+
 ### Built with
 
 - Semantic HTML5 markup
